@@ -1,0 +1,41 @@
+/* Kit Chan
+Coding Bootcamp UT-Austin
+Oct 2016 
+Assignment 2 bootstrap */
+body {
+    background-image: url("../images/asanoha-400px.png") !important;
+}
+
+p {
+    color:#fff;
+}
+
+.bio {
+    color: black;
+    margin: 10px;
+}
+
+.containerforPorfolio {
+    min-height: 1200px;
+}
+
+.main_content {
+    min-height: 800px;
+}
+.galleryspec {
+    margin: 5px;
+    position: relative;
+    float: left;
+    font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
+}
+h3 {
+    font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+    background-color: #4aaaa5;
+    color: white;
+    width: 250px;
+    padding: 10px 0 15px 0;
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+}
